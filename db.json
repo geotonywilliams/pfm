@@ -1,0 +1,721 @@
+{
+    "Identifier": "10400164146",
+    "StartMonth": "May 2022",
+    "EndMonth": "May 2022",
+    "CurrentData": [
+        {
+            "Criteria": "TOTAL SPENT",
+            "Amount": 329189,
+            "Percentage": -14
+        },
+        {
+            "Criteria": "TOTAL RECEIVED",
+            "Amount": 329189,
+            "Percentage": 1
+        },
+        {
+            "Criteria": "AVERAGE SPEND",
+            "Amount": 329189,
+            "Percentage": 14
+        },
+        {
+            "Criteria": "AVERAGE RECEIVED",
+            "Amount": 329189,
+            "Percentage": 14
+        },
+        {
+            "Criteria": "Account To Wallet",
+            "Amount": 65088.47,
+            "Percentage": 1
+        },
+        {
+            "Criteria": "ATM",
+            "Amount": 4870.00,
+            "Percentage": 1
+        },
+        {
+            "Criteria": "Branch",
+            "Amount": 110481.50,
+            "Percentage": 14
+        },
+        {
+            "Criteria": "Digital",
+            "Amount": 64650.00,
+            "Percentage": 14
+        },
+        {
+            "Criteria": "POS",
+            "Amount": 47233.87,
+            "Percentage": 1
+        },
+        {
+            "Criteria": "Others",
+            "Amount": 10994.02,
+            "Percentage": 1
+        }
+    ],
+    "SpendByChannel": [
+        {
+            "Month": "May",
+            "TransData": [
+                {
+                    "Criteria": "Account To Wallet",
+                    "Amount": 65088.47,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "ATM",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Branch",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "Digital",
+                    "Amount": 64650.00,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "POS",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Loans",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Others",
+                    "Amount": 10994.02,
+                    "Percentage": 1
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "TransData": [
+                {
+                    "Criteria": "Account To Wallet",
+                    "Amount": 65088.47,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "ATM",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Branch",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "Digital",
+                    "Amount": 64650.00,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "POS",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Loans",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Others",
+                    "Amount": 10994.02,
+                    "Percentage": 1
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "TransData": [
+                {
+                    "Criteria": "Account To Wallet",
+                    "Amount": 65088.47,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "ATM",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Branch",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "Digital",
+                    "Amount": 64650.00,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "POS",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Loans",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Others",
+                    "Amount": 10994.02,
+                    "Percentage": 1
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "TransData": [
+                {
+                    "Criteria": "Account To Wallet",
+                    "Amount": 65088.47,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "ATM",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Branch",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "Digital",
+                    "Amount": 64650.00,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "POS",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Loans",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Others",
+                    "Amount": 10994.02,
+                    "Percentage": 1
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "TransData": [
+                {
+                    "Criteria": "Account To Wallet",
+                    "Amount": 65088.47,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "ATM",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Branch",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "Digital",
+                    "Amount": 64650.00,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "POS",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Loans",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Others",
+                    "Amount": 10994.02,
+                    "Percentage": 1
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "TransData": [
+                {
+                    "Criteria": "Account To Wallet",
+                    "Amount": 65088.47,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "ATM",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Branch",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "Digital",
+                    "Amount": 64650.00,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "POS",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Loans",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Others",
+                    "Amount": 10994.02,
+                    "Percentage": 1
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "TransData": [
+                {
+                    "Criteria": "Account To Wallet",
+                    "Amount": 65088.47,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "ATM",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Branch",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "Digital",
+                    "Amount": 64650.00,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "POS",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Loans",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Others",
+                    "Amount": 10994.02,
+                    "Percentage": 1
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "TransData": [
+                {
+                    "Criteria": "Account To Wallet",
+                    "Amount": 65088.47,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "ATM",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Branch",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "Digital",
+                    "Amount": 64650.00,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "POS",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Loans",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Others",
+                    "Amount": 10994.02,
+                    "Percentage": 1
+                }
+            ]
+        },
+        {
+            "Month": "January",
+            "TransData": [
+                {
+                    "Criteria": "Account To Wallet",
+                    "Amount": 65088.47,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "ATM",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Branch",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "Digital",
+                    "Amount": 64650.00,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "POS",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Loans",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Others",
+                    "Amount": 10994.02,
+                    "Percentage": 1
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "TransData": [
+                {
+                    "Criteria": "Account To Wallet",
+                    "Amount": 65088.47,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "ATM",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Branch",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "Digital",
+                    "Amount": 64650.00,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "POS",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Loans",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Others",
+                    "Amount": 10994.02,
+                    "Percentage": 1
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "TransData": [
+                {
+                    "Criteria": "Account To Wallet",
+                    "Amount": 65088.47,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "ATM",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Branch",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "Digital",
+                    "Amount": 64650.00,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "POS",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Loans",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Others",
+                    "Amount": 10994.02,
+                    "Percentage": 1
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "TransData": [
+                {
+                    "Criteria": "Account To Wallet",
+                    "Amount": 65088.47,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "ATM",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Branch",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "Digital",
+                    "Amount": 64650.00,
+                    "Percentage": 14
+                },
+                {
+                    "Criteria": "POS",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Loans",
+                    "Amount": 47233.87,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Others",
+                    "Amount": 10994.02,
+                    "Percentage": 1
+                }
+            ]
+        }
+    ],
+    "TrendOfSpendReceipt": [
+        {
+            "Month": "May",
+            "TransData": [
+                {
+                    "Criteria": "Spent",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Received",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                }
+            ]
+        },
+        {
+            "Month": "June",
+            "TransData": [
+                {
+                    "Criteria": "Spent",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Received",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                }
+            ]
+        },
+        {
+            "Month": "July",
+            "TransData": [
+                {
+                    "Criteria": "Spent",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Received",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                }
+            ]
+        },
+        {
+            "Month": "August",
+            "TransData": [
+                {
+                    "Criteria": "Spent",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Received",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                }
+            ]
+        },
+        {
+            "Month": "September",
+            "TransData": [
+                {
+                    "Criteria": "Spent",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Received",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                }
+            ]
+        },
+        {
+            "Month": "October",
+            "TransData": [
+                {
+                    "Criteria": "Spent",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Received",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                }
+            ]
+        },
+        {
+            "Month": "November",
+            "TransData": [
+                {
+                    "Criteria": "Spent",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Received",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                }
+            ]
+        },
+        {
+            "Month": "December",
+            "TransData": [
+                {
+                    "Criteria": "Spent",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Received",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                }
+            ]
+        },
+        {
+            "Month": "January",
+            "TransData": [
+                {
+                    "Criteria": "Spent",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Received",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                }
+            ]
+        },
+        {
+            "Month": "February",
+            "TransData": [
+                {
+                    "Criteria": "Spent",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Received",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                }
+            ]
+        },
+        {
+            "Month": "March",
+            "TransData": [
+                {
+                    "Criteria": "Spent",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Received",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                }
+            ]
+        },
+        {
+            "Month": "April",
+            "TransData": [
+                {
+                    "Criteria": "Spent",
+                    "Amount": 4870.00,
+                    "Percentage": 1
+                },
+                {
+                    "Criteria": "Received",
+                    "Amount": 110481.50,
+                    "Percentage": 14
+                }
+            ]
+        }
+    ]
+}
